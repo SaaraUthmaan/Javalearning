@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class calculator {
+public class Calculator {
     public static void main(String[] args) {
         Scanner userReply = new Scanner(System.in);
         System.out.println("How many numbers will you be using in this caluclation?");
