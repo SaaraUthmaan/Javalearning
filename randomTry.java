@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class randomTry {
+public class RandomTry {
     public static void main(String[] args) {
         Scanner userReply = new Scanner(System.in);
         System.out.println("Pick a number between 1 - 10");
