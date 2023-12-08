@@ -21,7 +21,7 @@ public class RandomTry {
         if(number == userNumber){
             System.out.println("You are an AMAZING Guesser!");
         }else{
-            System.out.println("You were off by "+ Math.abs(difference) +" points. Try arder next time.");
+            System.out.println("You were off by "+ Math.abs(difference) +" points. Try harder next time.");
         }    
     }
     
