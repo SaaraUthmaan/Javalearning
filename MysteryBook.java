@@ -3,6 +3,7 @@ import java.util.Random;
 import java.util.Scanner;
 import java.util.ArrayList;
 
+//they can import file maybe and it reads from there
 public class MysteryBook {
    public static void main(String[] args) {
       Scanner userReply = new Scanner(System.in);
