@@ -6,7 +6,8 @@ public class RandomTry {
         Scanner userReply = new Scanner(System.in);
         System.out.println("Pick a number between 1 - 10");
         int userNumber = userReply.nextInt();
-        
+
+        //can use if statemnet here too
         while(userNumber > 10){
             System.out.println("Please Pick a number between 1 - 10");
              userNumber = userReply.nextInt(); 
