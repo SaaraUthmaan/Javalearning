@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class PlannerPractic {
+public class PlannerPractice {
     public static void main(String[] args) {
         Scanner userReply = new Scanner(System.in);
 
